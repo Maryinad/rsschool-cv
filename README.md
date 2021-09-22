@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://maryinad.github.io/rsschool-cv/cv
+https://github.com/Maryinad/rsschool-cv/tree/rsschool-cv-html
